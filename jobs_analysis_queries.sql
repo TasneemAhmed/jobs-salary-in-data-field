@@ -27,7 +27,7 @@ GROUP BY
 ORDER BY
   3 DESC;
 /*
-        Data Mart #3: Count of occuernce of each category
+        Data Mart #3: Count of occuernce of each category, and show only Top 5
 */
 SELECT
   job_category,
