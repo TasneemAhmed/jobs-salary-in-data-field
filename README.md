@@ -20,8 +20,10 @@ Transformations applied:
 - Modify company_size column values with replace S->Small  , M->Medium, L->Large
   
 5. Execute Pyspark job using Google Cloud DataProc Cluster
+   
+6. Execute SQL aggregatins queries to able to answer questions 
 
-6. Create dashboard in Google Cloud Studio (Looker) [Dashboard Link](https://lookerstudio.google.com/reporting/b32c26d1-1bb9-498f-8448-08656a996169)
+7. Create dashboard in Google Cloud Studio (Looker) [Dashboard Link](https://lookerstudio.google.com/reporting/b32c26d1-1bb9-498f-8448-08656a996169)
 
 ![alt text](Images/image-8.png)    ![alt text](Images/image-5.png)
 
